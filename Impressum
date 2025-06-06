@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Impressum – Creator Compass</title>
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+        padding: 2rem;
+        max-width: 700px;
+        margin: 0 auto;
+        line-height: 1.6;
+        color: #222;
+        background: #fff;
+      }
+      h1 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Impressum</h1>
+
+    <p><strong>Angaben gemäß § 5 TMG:</strong></p>
+    <p>
+      Inka Bliss<br />
+      Berlin, Deutschland<br />
+      E-Mail: bliss.berlin@googlemail.com
+    </p>
+
+    <h2>Haftung für Inhalte</h2>
+    <p>
+      Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden.
+    </p>
+
+    <h2>Haftung für Links</h2>
+    <p>
+      Diese Seite enthält Links zu externen Webseiten Dritter, auf deren Inhalte kein Einfluss besteht. Für diese fremden Inhalte wird keine Gewähr übernommen.
+    </p>
+
+    <h2>Urheberrecht</h2>
+    <p>
+      Die durch die Seitenbetreiberin erstellten Inhalte unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet.
+    </p>
+
+    <p><em>Letzte Aktualisierung: Mai 2025</em></p>
+  </body>
+</html>
